@@ -1,6 +1,5 @@
 
 <h1>
-    <a href="https://www.dio.me/">
      <img align="left" width="120px" src="https://inscricao.prozeducacao.com.br/wp-content/uploads/2024/01/logo.png"></a>
     <span> Contribuindo em um Projeto Open Source</span>
 </h1>
